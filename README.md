@@ -1,3 +1,5 @@
+Een Email App concept geschreven in Java voor de schoolmodule A4
+---------------------------------------------------------------------------------------------------------
 Om de e-mail app te laten werken is het programma Papercut vereist.
 
 Download Papercut hier: https://github.com/ChangemakerStudios/Papercut-SMTP/releases
